@@ -2,7 +2,8 @@
 
 Local monitoring dashboard for Claude Code usage - track costs, tokens, and productivity metrics with OpenTelemetry, Prometheus, and Grafana.
 
-![Dashboard Screenshot](docs/dashboard-screenshot.png)
+![Dashboard Screenshot 1](docs/dashboard1.png)
+![Dashboard Screenshot 2](docs/dashboard2.png)
 
 ## Features
 
