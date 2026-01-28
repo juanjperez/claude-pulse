@@ -186,6 +186,9 @@ MIT
 
 ## Acknowledgments
 
+Inspired by the [Claude Code Monitoring Usage](https://code.claude.com/docs/en/monitoring-usage) documentation.
+
+Built with:
 - [Claude Code](https://claude.ai/code) by Anthropic
 - [OpenTelemetry](https://opentelemetry.io/)
 - [Prometheus](https://prometheus.io/)
